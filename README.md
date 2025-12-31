@@ -16,8 +16,8 @@ The user enters their choice, and the computer makes a random selection. The res
 ### 1. Download the Project
 Clone this repository or download the source code:
 ```bash
-git clone <your-repository-url>
-cd <project-folder-name>
+git clone https://github.com/sara-itzhaki/rock-paper-acissors-game
+
 2. Create a Virtual Environment
 To keep dependencies organized, create and activate a virtual environment:
 
